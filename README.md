@@ -31,9 +31,8 @@
   I write code that ships to real users.
   I run a home lab — Kali Linux + Metasploitable — just for fun.
   I've trained 60+ hours of students in Android development.
-  I build apps, break systems (ethically), and connect the dots between
-  development and security — because most devs ignore security,
-  and most security folks can't code. I do both.
+  I believe the best security engineers understand how things are built.
+  So I build things — and then I try to break them.
 
   Currently hunting: SOC · GRC · Cloud Security · AppSec roles
 
